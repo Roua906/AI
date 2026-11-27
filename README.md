@@ -12,14 +12,13 @@ Ce projet consiste à développer une solution d'Intelligence Artificielle capab
 
 
 ## 3. Technologies Utilisées *(Les outils techniques)*
- **Langage :** Python 3.x
- **NLP & Modèle préentraîné :** Hugging Face (`transformers`), PyTorch (`torch`), `scikit-learn`[cite: 1]
- **Traitement de données & Visualisation :** `pandas`, `numpy`, `matplotlib`
- **Interface Web :** `streamlit`
+**Langage :** Python 3.x
+**NLP & Machine Learning :** spacy, scikit-learn (TF-IDF + Régression Logistique)
+**Sauvegarde du modèle :** joblib
+**Traitement de données & Visualisation :** pandas, numpy, matplotlib
+**Interface Web :** streamlit
 
 
 ## 3. Auteurs
 **Roua Sai**
 **Eya Ouertatani**
-
-
